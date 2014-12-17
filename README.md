@@ -33,7 +33,7 @@ matching path(s). Assume that the cost of insertion/deletion is 2, and the cost 
 
 Assignment 3 - Term Document Matrix and introduction to SNLP library
 
-1. Term Document Matrix ?40pts
+1. Term Document Matrix 
 Write a program that uses the classbios information retrieval index that you produced in your previous
 assignment to:
 • Produces a term-document matrix (T) based on raw term-frequencies. As your answer tell us what
